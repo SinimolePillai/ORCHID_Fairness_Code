@@ -43,7 +43,7 @@ Consolidated R analysis script containing data preprocessing, cohort constructio
 
 **`Sessioninfo.txt`**
 
-R environment and package information. This file should be updated to reflect the final analysis environment.
+R environment and package information. 
 
 **`LICENSE`**
 
